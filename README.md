@@ -1,4 +1,4 @@
 # Lagoona
 Сайт сети отелей Lagoona
 
-http://konstantin-burkin.github.io.lagoona/
+https://konstantin-burkin.github.io/Lagoona/
